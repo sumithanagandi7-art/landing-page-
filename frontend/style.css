@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    background: black;
+    color: white;
+    padding: 10px;
+}
+
+.hero {
+    padding: 50px;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin: 20px;
+}
+
+input, textarea {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+}
